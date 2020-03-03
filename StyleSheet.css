@@ -1,0 +1,43 @@
+﻿body {
+    background-color: #333;
+    color: #fff;
+}
+
+.navbar {
+    border-bottom: #00e8d6 3px solid;
+    opacity: 0.8;
+}
+#home-screen {
+    background: url('img/pexels-photo-267371.jpeg') no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    min-height:700px;
+}
+
+.home-inner {
+padding-top:150px;
+}
+.dark-overlay {
+background-color:rgba(0,0,0,0.7);
+position:absolute;
+top:0;
+left:0;
+width:100%;
+min-height:700px;
+}
+.card-form {
+opacity:0.8;
+}
+.fa {
+    background-color: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    color: cornflowerblue;
+}
+#explore-section2 .fa{
+ color:#fff;
+ background:#333;
+ padding:4px;
+ border-radius:5px;
+
+}
